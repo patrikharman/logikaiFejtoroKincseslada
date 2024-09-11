@@ -9,3 +9,6 @@ Felirat 3 (Bronz Ládán): "Az arany láda hazudik."
 Cél: Határozd meg, hogy melyik láda rejti a kincset, figyelembe véve, hogy csak egy felirat igaz.
 
 (az ezüst láda rejti a kincset)
+
+![image](https://github.com/user-attachments/assets/d843f589-fa2b-45a2-9a06-8451dc6ad51a)
+
