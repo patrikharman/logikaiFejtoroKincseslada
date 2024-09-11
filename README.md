@@ -10,5 +10,5 @@ Cél: Határozd meg, hogy melyik láda rejti a kincset, figyelembe véve, hogy c
 
 (az ezüst láda rejti a kincset)
 
-![image](https://github.com/user-attachments/assets/d843f589-fa2b-45a2-9a06-8451dc6ad51a)
+![image](https://github.com/user-attachments/assets/dcafd3c1-3142-41aa-a0bd-35ec965a3bc0)
 
